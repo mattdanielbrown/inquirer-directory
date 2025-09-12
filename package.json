@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/nicksrandall/inquierer-directory#readme",
   "dependencies": {
-    "chalk": "^1.1.1",
+    "chalk": "^5.6.0",
     "cli-cursor": "^1.0.2",
     "figures": "^1.4.0",
     "inquirer": "^1.1.3",
